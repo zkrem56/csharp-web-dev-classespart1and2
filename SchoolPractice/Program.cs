@@ -6,7 +6,7 @@ namespace SchoolPractice
     {
         public static void Main(string[] args)
         {
-            // TODO: Instantiate your objects and test your exercise solutions with print statements here.
+            // TODO: Test your exercise solutions with print statements here.
         }
     }
 }
